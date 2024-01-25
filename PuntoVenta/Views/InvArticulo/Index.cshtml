@@ -1,0 +1,185 @@
+﻿@model IEnumerable<PuntoVenta.Models.InvArticulo>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdUnidadMedida)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdUbicacion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PesoBruto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CantExistencia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CantReservado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cantpedidominimo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cantareponer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IndNumeroserie)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IndFraccionado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IndConsignacion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IndFechavencimiento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IndVentapeso)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IndCompuesto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaultimaCompra)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrecioCompra)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Costopromedio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio2)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio3)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Montoimpuesto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IndInventario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IntDescuento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdFamiliaNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdProveedorNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdSubfamiliaNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdUnidadMedida)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdUbicacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PesoBruto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CantExistencia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CantReservado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantpedidominimo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantareponer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IndNumeroserie)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IndFraccionado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IndConsignacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IndFechavencimiento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IndVentapeso)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IndCompuesto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaultimaCompra)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecioCompra)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Costopromedio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio3)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Montoimpuesto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IndInventario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IntDescuento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdFamiliaNavigation.IdFamilia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdProveedorNavigation.IdProveedor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdSubfamiliaNavigation.IdSubfamilia)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

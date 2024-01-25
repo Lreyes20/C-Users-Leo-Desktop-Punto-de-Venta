@@ -1,0 +1,42 @@
+﻿@model PuntoVenta.Models.InvParametro
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>InvParametro</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Valorparam)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Valorparam)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Valorparam2)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Valorparam2)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Valorparam3)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Valorparam3)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IdParametro">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

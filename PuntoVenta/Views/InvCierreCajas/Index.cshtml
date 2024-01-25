@@ -1,0 +1,101 @@
+﻿@model IEnumerable<PuntoVenta.Models.InvCierreCaja>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MontoEfectivo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MontoTarjetas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MontoCuentascobar)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MontoGastos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MontoOtrosingresos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MontoImpservicio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MontoTrabajo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MontoTotal)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Montocxc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Montodesc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Montosinpe)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MontoEfectivo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MontoTarjetas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MontoCuentascobar)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MontoGastos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MontoOtrosingresos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MontoImpservicio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MontoTrabajo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MontoTotal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Montocxc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Montodesc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Montosinpe)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

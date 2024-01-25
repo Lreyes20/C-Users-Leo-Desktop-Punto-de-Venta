@@ -1,0 +1,455 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PuntoVenta
+build_property.RootNamespace = PuntoVenta
+build_property.ProjectDir = C:\Users\Leo\Desktop\Punto de Venta\PuntoVenta\PuntoVenta\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Leo\Desktop\Punto de Venta\PuntoVenta\PuntoVenta
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvAperturaCaja/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52QXBlcnR1cmFDYWphXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvAperturaCaja/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52QXBlcnR1cmFDYWphXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvAperturaCaja/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52QXBlcnR1cmFDYWphXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvAperturaCaja/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52QXBlcnR1cmFDYWphXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvAperturaCaja/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52QXBlcnR1cmFDYWphXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvArticulosCompuestoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52QXJ0aWN1bG9zQ29tcHVlc3RvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvArticulosCompuestoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52QXJ0aWN1bG9zQ29tcHVlc3RvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvArticulosCompuestoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52QXJ0aWN1bG9zQ29tcHVlc3RvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvArticulosCompuestoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52QXJ0aWN1bG9zQ29tcHVlc3RvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvArticulosCompuestoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52QXJ0aWN1bG9zQ29tcHVlc3RvZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvArticulo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52QXJ0aWN1bG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvArticulo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52QXJ0aWN1bG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvArticulo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52QXJ0aWN1bG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvArticulo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52QXJ0aWN1bG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvArticulo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52QXJ0aWN1bG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvCierreCajas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q2llcnJlQ2FqYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvCierreCajas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q2llcnJlQ2FqYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvCierreCajas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q2llcnJlQ2FqYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvCierreCajas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q2llcnJlQ2FqYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvCierreCajas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q2llcnJlQ2FqYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvClientes1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q2xpZW50ZXMxXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvClientes1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q2xpZW50ZXMxXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvClientes1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q2xpZW50ZXMxXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvClientes1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q2xpZW50ZXMxXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvClientes1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q2xpZW50ZXMxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvClientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvClientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvClientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvClientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvClientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvConsecutivoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q29uc2VjdXRpdm9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvConsecutivoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q29uc2VjdXRpdm9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvConsecutivoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q29uc2VjdXRpdm9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvConsecutivoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q29uc2VjdXRpdm9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvConsecutivoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q29uc2VjdXRpdm9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvCuentasxCobrars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q3VlbnRhc3hDb2JyYXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvCuentasxCobrars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q3VlbnRhc3hDb2JyYXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvCuentasxCobrars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q3VlbnRhc3hDb2JyYXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvCuentasxCobrars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q3VlbnRhc3hDb2JyYXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvCuentasxCobrars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52Q3VlbnRhc3hDb2JyYXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvDependientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RGVwZW5kaWVudGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvDependientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RGVwZW5kaWVudGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvDependientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RGVwZW5kaWVudGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvDependientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RGVwZW5kaWVudGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvDependientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RGVwZW5kaWVudGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvDetalleCuentas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RGV0YWxsZUN1ZW50YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvDetalleCuentas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RGV0YWxsZUN1ZW50YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvDetalleCuentas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RGV0YWxsZUN1ZW50YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvDetalleCuentas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RGV0YWxsZUN1ZW50YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvDetalleCuentas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RGV0YWxsZUN1ZW50YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvDetalleMovimientoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RGV0YWxsZU1vdmltaWVudG9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvDetalleMovimientoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RGV0YWxsZU1vdmltaWVudG9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvDetalleMovimientoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RGV0YWxsZU1vdmltaWVudG9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvDetalleMovimientoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RGV0YWxsZU1vdmltaWVudG9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvDetalleMovimientoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RGV0YWxsZU1vdmltaWVudG9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvFamiliums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RmFtaWxpdW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvFamiliums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RmFtaWxpdW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvFamiliums/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RmFtaWxpdW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvFamiliums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RmFtaWxpdW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvFamiliums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52RmFtaWxpdW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvMaestroCuentas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWFlc3Ryb0N1ZW50YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvMaestroCuentas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWFlc3Ryb0N1ZW50YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvMaestroCuentas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWFlc3Ryb0N1ZW50YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvMaestroCuentas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWFlc3Ryb0N1ZW50YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvMaestroCuentas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWFlc3Ryb0N1ZW50YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvMedidas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWVkaWRhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvMedidas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWVkaWRhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvMedidas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWVkaWRhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvMedidas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWVkaWRhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvMedidas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWVkaWRhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvMovimientoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TW92aW1pZW50b2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvMovimientoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TW92aW1pZW50b2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvMovimientoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TW92aW1pZW50b2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvMovimientoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TW92aW1pZW50b2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvMovimientoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TW92aW1pZW50b2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvParametroes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52UGFyYW1ldHJvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvParametroes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52UGFyYW1ldHJvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvParametroes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52UGFyYW1ldHJvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvParametroes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52UGFyYW1ldHJvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvParametroes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52UGFyYW1ldHJvZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvProveedores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52UHJvdmVlZG9yZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvProveedores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52UHJvdmVlZG9yZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvProveedores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52UHJvdmVlZG9yZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvProveedores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52UHJvdmVlZG9yZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvProveedores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52UHJvdmVlZG9yZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvProvincias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52UHJvdmluY2lhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvProvincias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52UHJvdmluY2lhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvProvincias/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52UHJvdmluY2lhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvProvincias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52UHJvdmluY2lhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvProvincias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52UHJvdmluY2lhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvSubFamiliums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52U3ViRmFtaWxpdW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvSubFamiliums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52U3ViRmFtaWxpdW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvSubFamiliums/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52U3ViRmFtaWxpdW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvSubFamiliums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52U3ViRmFtaWxpdW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvSubFamiliums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52U3ViRmFtaWxpdW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvTipoAjustes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52VGlwb0FqdXN0ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvTipoAjustes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52VGlwb0FqdXN0ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvTipoAjustes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52VGlwb0FqdXN0ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvTipoAjustes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52VGlwb0FqdXN0ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/InvTipoAjustes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52VGlwb0FqdXN0ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leo/Desktop/Punto de Venta/PuntoVenta/PuntoVenta/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zf8p73nup8

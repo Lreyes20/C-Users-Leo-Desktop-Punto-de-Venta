@@ -1,0 +1,53 @@
+﻿@model IEnumerable<PuntoVenta.Models.InvParametro>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Valorparam)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Valorparam2)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Valorparam3)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Valorparam)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Valorparam2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Valorparam3)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdParametro">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdParametro">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdParametro">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
